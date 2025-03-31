@@ -1,2 +1,2 @@
 # conflict-exercise
-Esto es un repositorio llamado conflict-exercise
+Este es un cambio en la feature branch
